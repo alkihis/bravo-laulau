@@ -37,6 +37,7 @@ async function main() {
     client.post('statuses/update', {
       status: 'BRAVO LOLO !! https://twitter.com/' + screen_name  + '/status/' + tweet.id_str
     });
+    console.log('Status', tweet.id_str, 'credited.');
   });
 
   console.log('Listening twitter stream.');
