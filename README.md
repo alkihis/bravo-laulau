@@ -2,7 +2,7 @@
 
 > Récompenser les tweets de la Région Auvergne-Rhône-Alpes (AuRA) mettant en valeur Laurent Wauquiez.
 
-> Credit Auvergne-Rhône-Alpes (AuRA) region tweets starring Laurent Wauquiez
+> Reward Auvergne-Rhône-Alpes (AuRA) region tweets starring Laurent Wauquiez
 
 ## Getting started
 
