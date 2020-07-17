@@ -35,7 +35,7 @@ async function main() {
     const screen_name = (<FullUser>tweet.user)?.screen_name ?? 'auvergnerhalpes';
 
     client.post('statuses/update', {
-      status: 'BRAVO LOLO !! https://twitter.com/' + screen_name  + '/status/' + tweet.id_str
+      status: 'BRAVO LAULAU !! https://twitter.com/' + screen_name  + '/status/' + tweet.id_str
     });
     console.log('Status', tweet.id_str, 'credited.');
   });
